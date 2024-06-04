@@ -10,3 +10,5 @@ Dataset - Emojiset
 # Models
 - A baseline model (Emojifier-V1) using word embeddings.
 - A more sophisticated model (Emojifier-V2) that further incorporates an LSTM.
+
+[2022]
